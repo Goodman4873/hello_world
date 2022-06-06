@@ -3,8 +3,8 @@
 #include "data_structure.h"
 
 /*********************************************
-/* @brief global variable
-/* 全局变量
+* @brief global variable
+* 全局变量
 *********************************************/
 NODE* head;
 
